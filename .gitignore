@@ -1,0 +1,12 @@
+# 编译产物
+bin/
+obj/
+
+# 本机离线 NuGet 临时源（机器相关，不上传）
+.nuget-local/
+NuGet.config
+
+# IDE / 用户文件
+.vs/
+*.user
+*.suo
